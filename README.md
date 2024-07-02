@@ -13,7 +13,7 @@ Repositório contendo os principais códigos e atividades da disciplina de Anál
 
 ## Tech utilizadas
 
-![JAVA](https://img.shields.io/badge/JAVA-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-239120?&style=for-the-badge&logo=java&logoColor=white)
 
 
 
